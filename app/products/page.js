@@ -16,6 +16,7 @@ export default function Product() {
     return (
         <main>
             <h1>Products Page</h1>
+            <img src="images/photo.jpg" alt="" />
             <p>This is a simple placeholder for the products page.</p>
         </main>
     );
