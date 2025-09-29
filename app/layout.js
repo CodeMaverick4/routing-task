@@ -6,6 +6,7 @@ export default function RootLayout({ children }) {
       <body>
         <header>
           this is a header
+          <img src="logo.jpg" alt="" width={50}/>
           <Link href={'/'}>Home </Link>
           <Link href={'/products'}>Products </Link>
           </header>
